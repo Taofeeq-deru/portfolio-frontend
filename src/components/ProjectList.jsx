@@ -30,7 +30,6 @@ class ListClass extends Component {
                     src={`https://res.cloudinary.com/hm95utbuh/${item.image_1}`}
                     alt="project"
                     className="img-fluid imageCover"
-                    loading="lazy"
                     style={{
                       height: 300,
                     }}
