@@ -1,0 +1,23 @@
+#Contact h1 {
+  color: #ffffff;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+#content {
+  margin-top: 2em;
+}
+
+#contactDetails {
+  text-align: center;
+}
+
+#contactDetails a {
+  margin: 1em;
+  color: #ffffff;
+  font-size: 1.5em;
+}
+
+#contactDetails a:hover {
+  color: #0f2552;
+}

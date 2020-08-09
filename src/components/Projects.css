@@ -1,0 +1,48 @@
+.container {
+  padding: 2.5em;
+}
+
+#Projects h1 {
+  color: #282c34;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+#content {
+  margin-top: 2em;
+}
+
+.cover {
+  position: relative;
+  cursor: pointer;
+}
+
+.cover .desc {
+  position: absolute;
+  top: 0;
+  opacity: 0;
+  background: rgba(24, 24, 24, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.cover .desc .description {
+  font-size: 0.8em;
+}
+
+.cover:hover .desc {
+  opacity: 1;
+}
+
+/* @media screen and (min-width: 520px) {
+  .theCard {
+    height: 55vmin;
+  }
+
+  .imageCover {
+    height: 55vmin;
+  }
+} */

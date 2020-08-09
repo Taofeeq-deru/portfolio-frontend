@@ -1,0 +1,35 @@
+.container {
+  padding: 2.5em;
+  /*background-color: #333846;*/
+}
+
+#About h1,
+h3 {
+  color: #282c34;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+#content {
+  margin-top: 2em;
+}
+
+#content h2,
+#content p {
+  color: #282c34;
+  text-align: center;
+}
+
+#content p {
+  font-size: 1.2em;
+}
+
+.info {
+  text-align: center;
+}
+
+.avatar {
+  height: 50vmin;
+  border-radius: 100%;
+  margin-bottom: 1em;
+}
