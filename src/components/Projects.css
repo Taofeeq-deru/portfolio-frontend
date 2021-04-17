@@ -1,40 +1,45 @@
 .container {
-  padding: 2.5em;
+	padding: 2.5em;
+}
+
+#Projects {
+	scroll-behavior: smooth;
+	scroll-margin-top: 70px;
 }
 
 #Projects h1 {
-  color: #282c34;
-  text-transform: capitalize;
-  text-align: center;
+	color: #282c34;
+	text-transform: capitalize;
+	text-align: center;
 }
 
 #content {
-  margin-top: 2em;
+	margin-top: 2em;
 }
 
 .cover {
-  position: relative;
-  cursor: pointer;
+	position: relative;
+	cursor: pointer;
 }
 
 .cover .desc {
-  position: absolute;
-  top: 0;
-  opacity: 0;
-  background: rgba(24, 24, 24, 0.8);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  color: #ffffff;
+	position: absolute;
+	top: 0;
+	opacity: 0;
+	background: rgba(24, 24, 24, 0.8);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #ffffff;
 }
 
 .cover .desc .description {
-  font-size: 0.8em;
+	font-size: 0.8em;
 }
 
 .cover:hover .desc {
-  opacity: 1;
+	opacity: 1;
 }
 
 /* @media screen and (min-width: 520px) {
