@@ -3,6 +3,11 @@
   /*background-color: #333846;*/
 }
 
+#About {
+  scroll-behavior: smooth;
+    scroll-margin-top: 70px;
+}
+
 #About h1,
 h3 {
   color: #282c34;
