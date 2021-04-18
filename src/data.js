@@ -23,31 +23,39 @@ export const data = {
 		},
 		{
 			id: 3,
-			language: "Javascript",
+			language: "SCSS",
 		},
 		{
 			id: 4,
-			language: "Bootstrap",
+			language: "Javascript",
 		},
 		{
 			id: 5,
-			language: "React JS (React/Redux)",
+			language: "Bootstrap",
 		},
 		{
 			id: 6,
-			language: "TypeScript",
+			language: "Tailwind CSS",
 		},
-		// {
-		// 	id: 7,
-		// 	language: "Python",
-		// },
-		// {
-		// 	id: 8,
-		// 	language: "Django",
-		// },
 		{
 			id: 7,
-			language: "SCSS",
+			language: "Ant.design",
+		},
+		{
+			id: 8,
+			language: "React JS (React/Redux)",
+		},
+		{
+			id: 9,
+			language: "TypeScript",
+		},
+		{
+			id: 10,
+			language: "Python",
+		},
+		{
+			id: 11,
+			language: "Django",
 		},
 	],
 	project: [
