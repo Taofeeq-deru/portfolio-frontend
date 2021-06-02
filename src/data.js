@@ -139,11 +139,10 @@ export const data = {
 				"This is an ecommerce platform for mainly agricultural products. User can not only buy products here, but also set up online stores to sell their products.\r\nThis platform is being made through the remote collaboration of a team of developers. Frontend by me, and the backend and UI by other developers (designer for UI) on the team.",
 			language_used: "Javascript",
 			display_skills: "HTML, CSS, Bootstrap & Javascipt",
-			type: "public",
-			project_url: "https://taofeeq-deru.github.io/mamas-market/",
-			mobile_url:
-				"https://taofeeq-deru.github.io/mamas-market/index-mobile.html",
-			repo_url: "https://github.com/Taofeeq-deru/mamas-market",
+			type: "private",
+			project_url: "https://mamasmarket.com.ng",
+			mobile_url: "https://mamasmarket.com.ng",
+			repo_url: "https://github.com/Taofeeq-deru/",
 			image_1:
 				"https://res.cloudinary.com/hm95utbuh/image/upload/v1592980627/mm3sqiuyomtnipwskfw9.png",
 			image_2:
@@ -161,7 +160,7 @@ export const data = {
 			type: "public",
 			project_url: "http://taofeeq-deru.herokuapp.com/",
 			mobile_url: "http://taofeeq-deru.herokuapp.com/",
-			repo_url: "https://github.com/Taofeeq-deru/portfolio",
+			repo_url: "https://github.com/Taofeeq-deru/portfolio-frontend",
 			image_1:
 				"https://res.cloudinary.com/hm95utbuh/image/upload/v1584837056/b1raeajvjxurfdjzcznw.png",
 			image_2:
@@ -231,8 +230,8 @@ export const data = {
 			language_used: "React-JS",
 			display_skills: "React-JS, SCSS & Bootstrap",
 			type: "private",
-			project_url: "https://washryte.herokuapp.com",
-			mobile_url: "https://washryte.herokuapp.com",
+			project_url: "https://washryte.com.ng",
+			mobile_url: "https://washryte.com.ng",
 			repo_url: "https://github.com/Taofeeq-deru/",
 			image_1:
 				"https://res.cloudinary.com/hm95utbuh/image/upload/v1606587380/zts3nu9l006ce1vltzo8.png",
