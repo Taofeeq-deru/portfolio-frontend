@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Taofeeq Oluderu",
+  "name": "Frontend Engineer (ReactJS, React/Redux, TypeScript, NextJS).",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "myAvatar32.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "myAvatar.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "myAvatar512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
